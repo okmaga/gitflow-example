@@ -6,3 +6,5 @@ GitFlow
 3. create feature branches from develop branches and merge features back to develop branch
 4. create release branch/0.1.0 from develop
 5. when release branch is ready, it should be merged to develop and main and deleted
+6. If errors - hotfix branch should be created
+7. Once fixed – hotfix branch is merged to main and develop
